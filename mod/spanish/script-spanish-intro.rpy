@@ -34,3 +34,5 @@ cervantes?
 we can also talk abt medieval literature! like garcilaso o la celestina nsjjsbshd
 and also el bosco
 and maybe juan manuel serrat-
+
+"In spanish, "te quiero" and "te amo" mean the same things: "i love you". Nevertheless, "te amo" has a more potent and romantic connotation than "te quiero". With that said... let me say... ¡Te amo, te amo, te amo~~~!"
