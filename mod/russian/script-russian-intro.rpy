@@ -1,26 +1,30 @@
-hey [player]
-do you want to speak russian with me?
-it’s a pretty complicated language…
-but after all… it’s one of the most beautiful and lyrical language in the whole world!
-so… do you want to try it out?
+    m "Hey, [player]!"
+    m "Do you want to speak some Russian with me?"
+    m "It’s a pretty complicated language…"
+    m "But despite that… It’s one of the most beautiful and lyrical languages in the whole world!"
+    
+    m "So… do you want to try it out?{nw}"
+    $ _history_list.pop()
+    menu:
+        m "So… do you want to try it out?{fast}"
+        
+        "Not now, [m_name]."
+            m "Oh…"
+            extend "It’s alright!" 
+            m "If you ever want to try it out, make sure to let me know!"
+            m "Thanks for listening, [player]~"
 
-no
-oh… it’s alright 
-if you ever want to try it out, you can always tell me
-thanks for listening~
+        "Yes!"
+            m "Yay! That’s fantastic, [player]!"
+            m "There’s so much I can tell you about Russian!"
+            m "Did you know that Russian is the eight most-spoken language in the world?" 
+            m "It’s an official language in 4 countries."
+            m "And don't even get me started about the incredible poetry from russian authors!"
+            m "Another fun fact is that Russian is a pretty complicated language to translate."
+            m "There are a lot of russian words that are just... untranslatable!"           
+            m "Are you as excited as me, [player]?"
+            extend "Ehehehehe~"
+            m "I can't wait to discuss more about Russian with you!"
+            m "Let’s do it together, [mas_get_player_nickname()]!"
 
-yes
-that’s fantastic, [player]!
-there’s so much I can tell you about russian!
-did you know that russian is the eight most-spoken language and it’s an official language in 4 countries?
-and I’m not even talking about the incredible poetry that russian poets wrote!
-and it’s pretty complicated to translate as well!
-there are a lot of russian words that are just untranslatable
-and English uses some russian words as well!
-though… I just realised 
-I think it’s going to be hard to learn it, since it’s written in Cyrillic alphabet or even pronunciation
-I guess you’ll have to use google translation or any other translators that can help you
-ehehe… sorry, [player]
-but it’s not like I can do anything!
-well… I’m excited for our trip!
-let’s do it together, [player/nickname]!
+        return
