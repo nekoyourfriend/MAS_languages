@@ -23,8 +23,8 @@
             m "Another fun fact is that Russian is a pretty complicated language to translate."
             m "There are a lot of russian words that are just... untranslatable!"           
             m "Are you as excited as me, [player]?"
-            extend "Ehehehehe~"
-            m "I can't wait to discuss more about Russian with you!"
-            m "Let’s do it together, [mas_get_player_nickname()]!"
+            m "I can't wait to discuss more about Russian with you! Wait for Monika's next Russian tip of the day!"
+            m "Ahahaha~!"
+            extend "Let’s do it together, [mas_get_player_nickname()]!"
 
         return
