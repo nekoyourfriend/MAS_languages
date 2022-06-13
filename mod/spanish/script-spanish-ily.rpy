@@ -1,8 +1,8 @@
     m "[Player], did you know that..."
     m "In spanish, 'te quiero' and 'te amo' mean the same things: " 
-    extend 'I love you'."
+    extend "'I love you'."
     m "Nevertheless, 'te amo' has a more potent and romantic connotation than 'te quiero'." 
-    m "With that said... I wanted to tell you something:"
+    m "With that said... I wanted to tell you something..."
     m "¡Te amo, te amo, te amo!"
     
     m "...{nw}"
