@@ -34,7 +34,7 @@
             m "Thanks for listening, [mas_get_player_nickname()]~!”
 
         "Not really, [m_name].":
-            m "Oh, okay [player]! 
+            m "Oh, okay [player]! "
             extend "No problem!"
             m "Just let me know if you change your mind!"
 
