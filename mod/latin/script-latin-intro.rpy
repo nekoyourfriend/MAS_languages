@@ -1,7 +1,7 @@
-    m "Arma uirumque cano, Troiae qui primus ab oris,"
-    m "Italiam, fato profugus, Lauiniaque uenit,"
-    m "Litora, multum ille et terris iactatus et alto,"
-    m "Ui superum saeuae memorem Iunonis ob iram..."
+    m "{i}~Arma uirumque cano, Troiae qui primus ab oris,~{/i}"
+    m "{i}~Italiam, fato profugus, Lauiniaque uenit,~{/i}"
+    m "{i}~Litora, multum ille et terris iactatus et alto,~{/i}"
+    m "{i}~Ui superum saeuae memorem Iunonis ob iram...~{/i}"
     m "Oh? You didn't understand? " 
     extend "Hehehe, or maybe you did... I was reciting the first verses of Virgilio's Aeneid!"
     m "Latin is truly a wonderful language, isnt it?"
@@ -21,5 +21,6 @@
         "Yes!"
             m "Great! I'm delighted to know you're willing to learn something new apud amica tua, ehehe~"
             m "Let’s do it together, [mas_get_player_nickname()]!"
+            #write more here
 
         return
