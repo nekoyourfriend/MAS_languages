@@ -10,17 +10,18 @@
     menu:
         m "So? Would you like to learn with me?{fast}"
         
-        "Not now, [m_name]."
+        "Not now, [m_name].":
             m "Oh…"
             extend "It’s alright!" 
             m "Maybe some other time then."
             m "If you ever want to try it out, make sure to let me know!"
             m "Thanks for listening, [player]~"
 
-        "Yes!"
+        "Yes!":
             m "That's wonderful, [player]!"
             m "I was honestly hoping you would say that!"
             m "I'm so excited! There's so much to say about Greece."
+            #write more here
             m "In fact, without the knowledge brought from Ancient Greece it is likely that the Renaissance would've never happened!"
             m "The ancient had a very well-rounded civilization, so much so, that many of their works are still idolized today!"
             m "However, these history lessons can wait for another time, hehe~"
