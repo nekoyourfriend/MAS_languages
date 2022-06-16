@@ -31,7 +31,7 @@
             m "Oops, sorry for rambling, [player]! I hope that wasn´t too dense."
             m "Anyway, I think we'll leave the subject here. Wait for Monika's next Spanish tip of the day!"
             m "Ehehehe~"
-            m "Thanks for listening, [mas_get_player_nickname()]~!”
+            m "Thanks for listening, [mas_get_player_nickname()]~!"
 
         "Not really, [m_name].":
             m "Oh, okay [player]! "
