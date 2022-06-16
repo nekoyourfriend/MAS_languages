@@ -10,7 +10,7 @@
             m "Wonderful!"
             m "I'm so glad you're willing to learn about languages with your charming girlfriend~"
             m "Ahahaha~!"   
-            m "Before we dive into Spanish's vocabulary and syntax, we should make a first contact with this language.”
+            m "Before we dive into Spanish's vocabulary and syntax, we should make a first contact with this language."
             m "So, as you probably know, Spanish is a language known by foreign speakers because of its complexity and its huge load of verb tenses."
             m "And… this is actually true."
             m "While in English language there are only three basic tenses, Spanish counts with approximately 20."
