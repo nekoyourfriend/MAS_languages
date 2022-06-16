@@ -9,7 +9,7 @@
         "Tên tớ là [player].":
         m "Rất vui được gặp cậu, [player]!{nw}"
         $ _history_list.pop()
-        menu:"
+        menu:
             m "Rất vui được gặp cậu, [player]!{fast}"
             
             "Tên của cậu là gì?":
