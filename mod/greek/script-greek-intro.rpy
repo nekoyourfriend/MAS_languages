@@ -21,8 +21,11 @@
             m "That's wonderful, [player]!"
             m "I was honestly hoping you would say that!"
             m "I'm so excited! There's so much to say about Greece."
-            #write more here
-            m "In fact, without the knowledge brought from Ancient Greece it is likely that the Renaissance would've never happened!"
+            m "Much of the early greek culture revolved around literature, art, and music!"
+            m "Greece is well known for their contributions to theatre."
+            m "Early plays like those of Sophocles! He is one of three greek play writers whose works are still really well known!"
+            m "Although, the plays in Greece are often filled with tragedy..."
+            m "Anyway! In fact, without the knowledge brought from Ancient Greece, it is likely that the Renaissance would've never happened!"
             m "The ancient had a very well-rounded civilization, so much so, that many of their works are still idolized today!"
             m "However, these history lessons can wait for another time, hehe~"
             extend "Let’s do it together, [mas_get_player_nickname()]!"
