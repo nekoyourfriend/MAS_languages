@@ -7,7 +7,7 @@
     menu:
         m "...{fast}"
 
-        "я тоже люблю тебя, Моника":
+        "я тоже люблю тебя, [m_name].":
         
         m "[player]!"
         m "You said you love me too!"
