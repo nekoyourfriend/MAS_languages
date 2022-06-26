@@ -12,6 +12,8 @@
         m "However, 'chào' is often used with a noun associated with the person you're talking to casually."
         m "If you’re saying 'hi' to a friend, then it’ll be 'chào bạn'."
         m "Or if it’s someone slightly older, there could be gender-specific pronouns like 'chào chị' or 'chào anh'."
+        m "Next, 'buổi' is a word used to indicate the time of the day or more broadly, some kind of event or session."
+        m "If necessary, be sure to write some definition notes down! Writing down notes is a good habit to learning a new language efficiently." 
         m "This was your 'Vietnamese Tip of the day, [mas_get_player_nickname()]!"
         m "Await for the next one! Hehe~"
         
