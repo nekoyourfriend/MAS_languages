@@ -1,0 +1,10 @@
+m "Καλό απόγευμα [player]!"
+m "If you didn't know, I said good evening in greek!"
+m "Now like I said before, good evening and good night aren't not interchangeable in Greece!"
+m "Both are time sensitive."
+m "Also, unlike good night, good evening is used for non-definitive endings."
+m "Like if you left me to go restart the computer, I'd say good evening!"
+m "Because you'll see me again sometime in the near future!"
+m "Anyway I hope your enjoying learning Greek with me!"
+m "I know I'm love sharing something like this with you!"
+return
