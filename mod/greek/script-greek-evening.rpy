@@ -8,3 +8,11 @@ m "Because you'll see me again sometime in the near future!"
 m "Anyway I hope your enjoying learning Greek with me!"
 m "I know I'm love sharing something like this with you!"
 return
+
+"Oh your heading to bed [nickname_tag]?"
+"Okay, well καληνυχτα!"
+"In case you didn't realize, that's greek for good night."
+m "Actusllu fun fact before you go to bed, good night and good evening are not interchangeable in Greece like they are in most English native countries!"
+m "Oh and good night in Greece is used explicitly when they are definitely ending something like heading home from a night full of activities or heading to bed!" 
+m "Otherwise good evening or goodbye is used--depending on the time of day for good evening!"
+"Anyway, sleep tight and don't let the bed bugs bite, ahaha~" 
