@@ -1,5 +1,7 @@
     m "Hey, [player]..."
-    m "I wanted to tell you something."
+    m "Zgadnij co!"
+    m "..."
+    m "Kocham cię!~"
     #i love you goes here
     m "You know what it means?"
     m "It means 'I love you' in Polish..."
