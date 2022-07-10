@@ -1,0 +1,3 @@
+[player]! Did you know that the name “Poland” or “Polska” has a meaning? It originates from the name of the tribe Polanie, which means "people living in open fields".
+
+[player], are you familiar with Polish history? It’s very complex, kind of reminds of something from a fantasy novel ahahah. If you read about Polish Medival History, think something from the periods of 1138-1320, chances are you’ll get confused many times! Later times also haven’t been easy for Poland. The country has been invaded or has fought for freedom in insurrections over 40 times! Poland even disappeared from world maps between 1772 and 1795. Not to mention WWII… But despite all the hardship, Poland is around to this day, risen from the ashes like a phoenix!
