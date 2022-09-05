@@ -1,17 +1,17 @@
-    m "¡Hola, [player]! ¿Cómo estás el día de hoy?" 
-    m "Ehehe, sorry, I was only speaking a bit of spanish!"
+    m 7eub "¡Hola, [player]! ¿Cómo estás el día de hoy?" 
+    m 1hksdla "Ehehe, sorry, I was only speaking a bit of spanish!"
     
-    m "Would you like to learn some spanish with me?{nw}"
+    m 4eub "Would you like to learn some spanish with me?{nw}"
     $ _history_list.pop()
     menu:
-        m "Would you like to learn some spanish with me?{fast}"
+        m 4eub "Would you like to learn some spanish with me?{fast}"
         
         "Yes!":
-            m "Wonderful!"
-            m "I'm so glad you're willing to learn about languages with your charming girlfriend~"
-            m "Ahahaha~!"   
-            m "Before we dive into Spanish's vocabulary and syntax, we should make a first contact with this language."
-            m "So, as you probably know, Spanish is a language known by foreign speakers because of its complexity and its huge load of verb tenses."
+            m 2hub "Wonderful!"
+            m 2fub "I'm so glad you're willing to learn about languages with your charming girlfriend~"
+            m 2hub "Ahahaha~!"   
+            m 3euc "Before we dive into Spanish's vocabulary and syntax, we should make a first contact with this language."
+            m 2eud "So, as you probably know, Spanish is a language known by foreign speakers because of its complexity and its huge load of verb tenses."
             m "And… this is actually true."
             m "While in English language there are only three basic tenses, Spanish counts with approximately 20."
             m "This, of course, is a challenge for those who are not familiarized with these types of languages."
